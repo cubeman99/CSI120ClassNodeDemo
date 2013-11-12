@@ -1,2 +1,2 @@
-CSI120ClassNodeDemo
+Heroku Demo
 ===================
