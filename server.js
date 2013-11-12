@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(req, res){
-  res.send({
+  res.json({
     "name" : "David Jordan",
     "vacation" : {
       "places": ["45.64, -73.63","40.760, -73.973","32.750, -117.07"]
